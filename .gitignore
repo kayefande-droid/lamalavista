@@ -1,0 +1,10 @@
+# Git ignore
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+frontend/build/
+backend/frontend_build/
+*.db
+.env
+.env.*
